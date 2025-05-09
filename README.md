@@ -1,7 +1,7 @@
 ## Hi there! I'm Myllene Barbosa 👋
 
 
-# Estudante de Design Digital | Gestora de Tráfego Pago | Desenvolvedora FrontEnd | Técnica em Desenvolvimento de Sistemas
+### Estudante de Design Digital | Gestora de Tráfego Pago | Desenvolvedora FrontEnd | Técnica em Desenvolvimento de Sistemas
 
 
 Comecei na tecnologia em 2022, onde cursei Desenvolvimento de Sistemas numa escola de ensino profissionalizante.
