@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Myllene Barbosa 👋
 
 
 Estudante de Design Digital | Gestora de Tráfego Pago | Desenvolvedora FrontEnd | Técnica em Desenvolvimento de Sistemas
