@@ -10,8 +10,8 @@ como sites de aluguel de quadra e sites de ecommerces, utilizando a plataforma F
 Além disso, produzi artes visuais para empresas parceiras utilizando a plataforma Canva e ferramentas de IA.
 - 🔭 Perfil analítico
 - 🌱 Trabalho em equipe
-- 👯 Horário Felxível
+- 👯 Horário flexível
 - 🤔 Interesse em aprendizado
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Adaptabilidade
+- 📫 Organização
+- 😄 Comunicação
